@@ -1,0 +1,89 @@
+{
+    "main": {
+        "name": "Ashish Bansal",
+        "occupation": "Full Stack Developer",
+        "description": "I eat, sleep and breathe React",
+        "image": "profilepic.jpg",
+        "bio": "Hi there! I am Ashish Bansal! I am a Full Stack Developer. I've been coding in React for over 6 months now. With React JS I do have the knowledge of Flutter and Java too.",
+        "contactmessage": "Get in touch with me:",
+        "email": "ashishbansl652@gmail.com",
+        "phone": "+91 9816665501",
+        "address": {
+            "street": "Jharmajri",
+            "city": "Baddi",
+            "state": "Himachal Pradesh",
+            "zip": "174103"
+        },
+        "website": "",
+        "resumedownload": "",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/ashish-bansal-890582199/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/AshishBansal-Official",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [
+            {
+                "school": "Maharaja Agrasen University",
+                "degree": "Bachelor's of Technology in Computer Science & Engineering",
+                "graduated": "July 2022",
+                "description": "Graduated with First Class Honours"
+            }
+        ],
+        "work": [
+            {
+                "company": "",
+                "title": "",
+                "years": "",
+                "description": ""
+            }
+        ],
+        "skills": [
+            {
+                "name": "ReactJs",
+                "level": "100%"
+            },
+            {
+                "name": "Python",
+                "level": "85%"
+            },
+            {
+                "name": "Git",
+                "level": "70%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "99%"
+            },
+            {
+                "name": "Web Development",
+                "level": "95%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Netflix Clone (React JS)",
+                "category": "",
+                "image": "",
+                "url": "https://netflix-clone-8973a.web.app/"
+            },
+            {
+                "title": "Disney Plus Clone (React JS)",
+                "category": "",
+                "image": "",
+                "url": "https://disney-plus-clone-481e7.web.app/"
+            }
+        ]
+    }
+}

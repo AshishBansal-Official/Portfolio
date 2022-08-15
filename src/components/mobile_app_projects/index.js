@@ -17,7 +17,12 @@ const MobileAppProjects = () => {
         },
     });
 
-    const projectsAnimation = useVisibleAnimation({
+    const card1Animation = useVisibleAnimation({
+        initial: { opacity: 0 },
+        visible: { opacity: 1, transition: { duration: 1 } },
+    });
+
+    const card2Animation = useVisibleAnimation({
         initial: { opacity: 0 },
         visible: { opacity: 1, transition: { duration: 1 } },
     });
@@ -27,7 +32,7 @@ const MobileAppProjects = () => {
             <Heading {...headingAnimation}>Mobile App Projects</Heading>
             <Container>
                 <ProjectTile
-                    {...projectsAnimation}
+                    {...card1Animation}
                     url="images/mobile_app_projects/brew-crew.jpg"
                 >
                     <a
@@ -40,7 +45,7 @@ const MobileAppProjects = () => {
                     </a>
                 </ProjectTile>
                 <ProjectTile
-                    {...projectsAnimation}
+                    {...card2Animation}
                     url="images/mobile_app_projects/grand-pool.jpg"
                 >
                     <a

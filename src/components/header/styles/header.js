@@ -41,6 +41,10 @@ export const Panel = styled.div`
     flex-direction: column;
     justify-content: space-between;
     padding: 2vw 4vw;
+
+    @media (max-width: 420px) {
+        padding: 2vw 4vw;
+    }
 `;
 
 export const Logo = styled.img`
@@ -73,6 +77,11 @@ export const NavBarItem = styled.div`
     @media (max-width: 550px) {
         padding-left: 16px;
         font-size: 15px;
+    }
+
+    @media (max-width: 480px) {
+        padding-left: 12px;
+        font-size: 14px;
     }
 
     a {

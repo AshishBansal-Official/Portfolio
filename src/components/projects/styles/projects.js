@@ -84,10 +84,6 @@ export const ProjectTile = styled(motion.div)`
         width: 80%;
     }
 
-    @media (max-width: 768px) {
-        width: 90%;
-    }
-
     #projectOverlay {
         width: 100%;
         height: 100%;
@@ -115,6 +111,7 @@ export const ProjectTile = styled(motion.div)`
         position: absolute;
         bottom: 20%;
         left: 15%;
+        right: 5%;
         z-index: 0;
         text-shadow: 0 0px 10px rgb(0 0 0 / 57%);
         text-align: start;

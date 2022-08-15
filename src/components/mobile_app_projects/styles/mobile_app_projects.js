@@ -66,10 +66,10 @@ export const ProjectTile = styled(motion.div)`
         grid-gap: 20px;
     }
     @media (max-width: 768px) {
-        width: 40%;
+        width: 50%;
     }
     @media (max-width: 599px) {
-        width: 50%;
+        width: 80%;
     }
 
     #projectOverlay {

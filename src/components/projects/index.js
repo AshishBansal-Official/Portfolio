@@ -42,7 +42,7 @@ const Projects = () => {
                     url="images/projects/netflix.png"
                 >
                     <a
-                        href="https://netflix-clone-8973a.web.app/"
+                        href="https://netflix-clone-5ecf3.netlify.app/"
                         target="_blank"
                         rel="noreferrer"
                     >

@@ -95,7 +95,7 @@ const Header = () => {
                                     />
                                 </a>
                                 <a
-                                    href="docs/Ashish Bansal Resume.pdf"
+                                    href="documents/Ashish Bansal Resume.pdf"
                                     download=""
                                     style={{
                                         textDecoration: "none",

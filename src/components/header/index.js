@@ -74,7 +74,7 @@ const Header = () => {
                                     textTransform: "uppercase",
                                 }}
                             >
-                                A Full Stack Developer
+                                A Front End Developer
                             </motion.div>
                             <motion.div
                                 initial={{ opacity: 0 }}

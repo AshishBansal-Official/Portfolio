@@ -88,12 +88,6 @@ const Header = () => {
                                         alt=""
                                     />
                                 </a>
-                                <a href="https://www.linkedin.com/in/ashish-bansal-890582199/">
-                                    <img
-                                        src="images/home_socials/linkedin.png"
-                                        alt=""
-                                    />
-                                </a>
                                 <a
                                     href="documents/Ashish Bansal Resume.pdf"
                                     download=""

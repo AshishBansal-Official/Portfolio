@@ -31,19 +31,6 @@ const Footer = () => {
                     >
                         Github
                     </a>
-                    <a
-                        style={{
-                            fontSize: "18px",
-                            fontWeight: "bold",
-                            color: "#101b3b",
-                            textDecoration: "none",
-                        }}
-                        href="https://www.linkedin.com/in/ashish-bansal-890582199/"
-                        target="_blank"
-                        rel="noreferrer"
-                    >
-                        Linkedin
-                    </a>
                 </div>
                 <br />
                 <span
